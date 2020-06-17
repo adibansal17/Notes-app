@@ -10,5 +10,7 @@ Reading the notes.
 
 The npm modules used in programming of this application are :
 vargs [makes the command line interface friendly.]
-chalk [ used for styling the command line results]
+chalk [ used for styling the command line results].
+
+
 
